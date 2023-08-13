@@ -8,7 +8,7 @@ Dynamic display of days, hours, minutes, and seconds.
 Engaging animations that build anticipation.
 User-friendly interface for a seamless experience.
 
-#Live Demo: 
+#Live Demo: https://thisissouvik.github.io/Countdown-To-New-Year/
 
 Technologies Used:
 
